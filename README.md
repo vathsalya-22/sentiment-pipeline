@@ -180,3 +180,8 @@ python -m pipeline.etl_pipeline --schedule --interval 30
 ## 📜 License
 
 MIT License — free to use for any purpose.
+
+## Author
+**BYLAPUDI VATHSALYA RAM**
+Built as part of a data engineering + NLP portfolio project.
+GitHub: [vathsalya-22](https://github.com/vathsalya-22)
